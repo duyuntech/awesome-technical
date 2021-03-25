@@ -1,4 +1,4 @@
-# Awesome Business Intelligence [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Business Intelligence [![Awesome](./resource/badge.svg)](https://github.com/duyuntech/awesome-technical)
 A curated list of awesome tools to interact with data.
 ToC split by SaaS and OSS (Open Source Software):
 1. [Monitoring & Alerting](#1-monitoring-and-alerting)
